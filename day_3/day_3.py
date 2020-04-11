@@ -33,7 +33,7 @@ print(f"perimeter of the triangle is: {perimeter}")
 
 #6 
 
-formula rectangle area: area = length * width 
+# formula rectangle area: area = length * width 
 
 def calculate_area_rectangle():
     length = int(input(">Length of the rectangle \n "))
@@ -130,3 +130,9 @@ def calculate_seconds_lived(years):
     print("You have lived for roughly {:,}".format(seconds_lived) + " seconds")
 
 calculate_seconds_lived(years_lived)
+
+# 23
+
+# use escape sequences in strings to solve this
+
+
