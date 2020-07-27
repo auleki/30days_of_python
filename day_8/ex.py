@@ -4,11 +4,14 @@ product = {"name": "Shan George", "color": "red", "price": 200, "discount": True
                "phone": 200500606
            }}
 
-print(product.get("name"))
 
 
 
+print(product.keys())
 
+
+
+# print("names" in product)
 
 # data = product.get("offer")
 #
