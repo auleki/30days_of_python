@@ -3,13 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="e1ca5fc2-f7c8-4e7a-9011-f1a34e133421" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_8/day_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_8/day_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_8/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_8/ex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,11 +27,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_8/day_8.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day_9/day-9.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="day_8" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.day-9">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -34,11 +39,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Giwa\AppData\Local\Programs\Python\Python38\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_8" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_8/day_8.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,6 +52,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day-9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="30Days" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Giwa\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day_9" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_9/day-9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.day-9" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -86,34 +116,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="exercise update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="468" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595840969554">
+    <state x="468" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595851707670">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
-    <state x="468" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1600.870@0.30.1600.870" timestamp="1595840969554" />
+    <state x="468" y="155" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1600.870@0.30.1600.870" timestamp="1595851707670" />
     <state x="729" y="95" key="CommitChangelistDialog2" timestamp="1595711906396">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
     <state x="729" y="95" key="CommitChangelistDialog2/0.30.1600.870@0.30.1600.870" timestamp="1595711906396" />
-    <state x="794" y="255" key="FileChooserDialogImpl" timestamp="1595840966460">
+    <state x="794" y="255" key="FileChooserDialogImpl" timestamp="1595851706529">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
-    <state x="794" y="255" key="FileChooserDialogImpl/0.30.1600.870@0.30.1600.870" timestamp="1595840966460" />
-    <state width="776" height="210" key="GridCell.Tab.0.bottom" timestamp="1595850409366">
+    <state x="794" y="255" key="FileChooserDialogImpl/0.30.1600.870@0.30.1600.870" timestamp="1595851706529" />
+    <state width="774" height="210" key="GridCell.Tab.0.bottom" timestamp="1595860045321">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
-    <state width="776" height="210" key="GridCell.Tab.0.bottom/0.30.1600.870@0.30.1600.870" timestamp="1595850409366" />
-    <state width="776" height="210" key="GridCell.Tab.0.center" timestamp="1595850409366">
+    <state width="774" height="210" key="GridCell.Tab.0.bottom/0.30.1600.870@0.30.1600.870" timestamp="1595860045321" />
+    <state width="774" height="210" key="GridCell.Tab.0.center" timestamp="1595860045321">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
-    <state width="776" height="210" key="GridCell.Tab.0.center/0.30.1600.870@0.30.1600.870" timestamp="1595850409366" />
-    <state width="776" height="210" key="GridCell.Tab.0.left" timestamp="1595850409366">
+    <state width="774" height="210" key="GridCell.Tab.0.center/0.30.1600.870@0.30.1600.870" timestamp="1595860045321" />
+    <state width="774" height="210" key="GridCell.Tab.0.left" timestamp="1595860045321">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
-    <state width="776" height="210" key="GridCell.Tab.0.left/0.30.1600.870@0.30.1600.870" timestamp="1595850409366" />
-    <state width="776" height="210" key="GridCell.Tab.0.right" timestamp="1595850409366">
+    <state width="774" height="210" key="GridCell.Tab.0.left/0.30.1600.870@0.30.1600.870" timestamp="1595860045321" />
+    <state width="774" height="210" key="GridCell.Tab.0.right" timestamp="1595860045321">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
-    <state width="776" height="210" key="GridCell.Tab.0.right/0.30.1600.870@0.30.1600.870" timestamp="1595850409366" />
+    <state width="774" height="210" key="GridCell.Tab.0.right/0.30.1600.870@0.30.1600.870" timestamp="1595860045321" />
     <state x="159" y="30" key="SettingsEditor" timestamp="1595849602752">
       <screen x="0" y="30" width="1600" height="870" />
     </state>
